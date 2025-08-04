@@ -1,0 +1,55 @@
+{
+    "clientId": "clientId_string",
+    "name": "user_name_string",
+    "webHookUrl": "",
+    "permissions": "psfjm",
+    "accounts": [
+        {
+            "id": "id_string",
+            "sendId": "sendId_string",
+            "currencyCode": 980,
+            "cashbackType": "UAH",
+            "balance": 1234567890,
+            "creditLimit": 0,
+            "maskedPan": [
+                "XXXXXX******XXXX"
+            ],
+            "type": "black",
+            "iban": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        },
+        {
+            "id": "id_string",
+            "sendId": "",
+            "currencyCode": 980,
+            "balance": 1234567890,
+            "creditLimit": 0,
+            "maskedPan": [],
+            "type": "fop",
+            "iban": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        },
+        {
+            "id": "id_string",
+            "sendId": "AehPrsendId_stringjw68B",
+            "currencyCode": 840,
+            "cashbackType": "UAH",
+            "balance": 1234567890,
+            "creditLimit": 0,
+            "maskedPan": [
+                "XXXXXX******XXXX"
+            ],
+            "type": "black",
+            "iban": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        }
+    ],
+    "jars": [
+        {
+            "id": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "sendId": "",
+            "title": "title_string",
+            "description": "",
+            "currencyCode": 980,
+            "balance": 1234567890,
+            "goal": null
+        }
+    ]
+}
