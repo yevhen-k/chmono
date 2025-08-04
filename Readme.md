@@ -17,6 +17,7 @@ Requirements:
 1. Raylib: [https://github.com/raysan5/raylib](https://github.com/raysan5/raylib)
 2. RayGUI: [https://github.com/raysan5/raygui](https://github.com/raysan5/raygui)
 
+Set-up and run:
 1. Update [nob.c](./nob.c) to match you `raylib` and `raygui` location
 2. Set `MONO_X_TOKEN_HEADER` and `CLIENT_INFO_URL` environmental variabeles (see [.example.env](./.example.env) for more details)
 3. Compile and run:
