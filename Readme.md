@@ -4,7 +4,7 @@ ChMono is a simple GUI app to show you Monobank Account balance.
 It utilises simple api provided by Monobank: [https://api.monobank.ua/docs/index.html](https://api.monobank.ua/docs/index.html)
 
 Features:
-- Get all ccounts
+- Get all accounts
 - Show balance
 - Update balance info
 - Hide balance
